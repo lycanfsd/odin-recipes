@@ -1,0 +1,25 @@
+.home-heading {
+    text-align: center;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+body {
+    background-color: #567189;
+    color: #FAD6A5;
+}
+
+.recipe-link {
+    font-weight: bold;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    text-decoration: none;
+    line-height: 1.6;
+    text-align: center;
+    color: #FAD6A5;
+}
