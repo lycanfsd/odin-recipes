@@ -15,6 +15,15 @@ body {
     color: #FAD6A5;
 }
 
+.container {
+    background-color: slategray;
+    margin: 50px 100px;
+    box-sizing: border-box;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
 .recipe-link {
     font-weight: bold;
     font-family: Helvetica, Arial, Verdana, sans-serif;
